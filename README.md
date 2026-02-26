@@ -18,9 +18,9 @@ Skipped topics:
 
 ### Base
 
-* [RFC 7752](https://datatracker.ietf.org/doc/rfc7752/) [pdf](rfcs/rfc7752.pdf) North-Bound Distribution of Link-State and Traffic Engineering (TE) Information Using BGP, AFI/SAFI 16388/72
+* [RFC 7752](https://datatracker.ietf.org/doc/rfc7752/) [md](rfcs/rfc7752.md) [pdf](rfcs/rfc7752.pdf) North-Bound Distribution of Link-State and Traffic Engineering (TE) Information Using BGP, AFI/SAFI 16388/72
 
-* RFC 7752 was obsoleted by [RFC 9552](https://datatracker.ietf.org/doc/rfc9552/) [pdf](rfcs/rfc9552.pdf) Distribution of Link-State and Traffic Engineering Information Using BGP
+* RFC 7752 was obsoleted by [RFC 9552](https://datatracker.ietf.org/doc/rfc9552/) [md](rfcs/rfc9552.md) [pdf](rfcs/rfc9552.pdf) Distribution of Link-State and Traffic Engineering Information Using BGP
 
     > This document obsoletes RFC 7752 by completely replacing that document.  It makes some small changes and clarifications to the previous specification.  This document also obsoletes RFC 9029 by incorporating the updates that it made to RFC 7752.
 
